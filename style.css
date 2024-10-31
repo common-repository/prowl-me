@@ -1,0 +1,11 @@
+#prowlme { width: 210px; float: left; font-family: verdana; font-size: 10px; }
+#prowlme label { width: 75px; float: left; line-height: 18px; }
+#prowlme form { float: left; text-align: left; }
+#prowlme legend { font-size: 16px; font-weight: bold; }
+#prowlme .prowlme_text { width: 160px; font-family: verdana; font-size: 11px; border: 1px solid #888; padding: 2px; }
+#prowlme .prowlme_textarea { width: 160px; height: 100px; font-family: verdana; font-size: 11px; padding: 2px; border: 1px solid #888; }
+#prowlme .prowlme_submit { width: 165px; font-family: verdana; font-size: 11px; border: 1px solid #888; padding: 2px; }
+#prowlme p { text-align: left; margin: 5px 5px 5px 10px; }
+#prowlme fieldset { margin : 5px 10px 5px 0px; border: 1px #888 solid; color: #333; background-color: #efefef; }
+#prowlme .prowlme_spamcheck { width: 85px; font-family: verdana; font-size: 11px; border: 1px solid #888; padding: 2px; }
+#prowlme .label_prowlme_spamcheck { font-size: 11px; font-weight: bold; text-align: center; }
